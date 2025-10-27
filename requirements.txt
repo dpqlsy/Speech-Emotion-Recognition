@@ -1,0 +1,9 @@
+librosa
+numpy
+tensorflow
+pandas
+matplotlib
+scikit-learn
+os
+glob
+collections
